@@ -1,0 +1,3 @@
+[12-Jul-2020 18:54:41 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/hdarsksa/public_html/ficha/pdf/documentos/res/factura_html.php on line 175
+[30-Jul-2020 13:17:33 America/New_York] PHP Notice:  Undefined index: user_login_status in /home/hdarsksa/public_html/ficha/pdf/documentos/ver_factura.php on line 8
+[14-Aug-2020 10:04:07 America/New_York] PHP Notice:  Undefined index: user_login_status in /home/hdarsksa/public_html/ficha/pdf/documentos/ver_factura.php on line 8
