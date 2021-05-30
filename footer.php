@@ -1,7 +1,7 @@
 <div class="navbar navbar-default navbar-fixed-bottom">
     <div class="container">
       <p class="navbar-text pull-left">&copy <?php echo date('Y');?> - Genetica Avicola.
-           <a href="http://geneticaavicola.com/" target="_blank" style="color: #ecf0f1">Ventas de Pollos BB</a>
+           <a href="http://" target="_blank" style="color: #ecf0f1">Ventas de Pollos BB</a>
       </p>
    </div>
 </div>
